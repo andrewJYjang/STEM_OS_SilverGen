@@ -28,3 +28,5 @@
 (1) 삼성경제연구소(강성원, 박준, 손민중), 「저출산 극복을 위한 긴급제언」, 2010.
 (2) NH투자증권,「100세 쇼크. 100세 시대의 시작, 준비됐는가?」,100세시대연구소, 굿 인포메이션, 2018. 4.10.
 (3) 박광준, “인구고령화와 고령자사회정책의 과제”, 「한국사회정책」, 제 5권 2호, pp.31-66, 1998.
+
+// All the thought and attempt to make a paper was not good for finishing at first in the first semester of writing it anyway.
