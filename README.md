@@ -29,4 +29,4 @@
 (2) NH투자증권,「100세 쇼크. 100세 시대의 시작, 준비됐는가?」,100세시대연구소, 굿 인포메이션, 2018. 4.10.
 (3) 박광준, “인구고령화와 고령자사회정책의 과제”, 「한국사회정책」, 제 5권 2호, pp.31-66, 1998.
 
-// All the thought and attempt to make a paper was not good for finishing at first in the first semester of writing it anyway.
+// All the thought and attempt to make a paper was not good for finishing at first in the first semester of writing it anyway. One of the professors on my disseration told me my writing should be more narrow and taking good point enough. ... Hopefully I would begin PhD course in 2021. 
